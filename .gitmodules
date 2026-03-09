@@ -1,0 +1,3 @@
+[submodule "NvimConfig"]
+	path = NvimConfig
+	url = https://github.com/TreeSquirrles/NvimConfig.git

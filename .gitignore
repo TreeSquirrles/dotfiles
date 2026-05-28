@@ -1,0 +1,46 @@
+# --- OS Specific Files ---
+.DS_Store
+Thumbs.db
+db.json
+
+# --- Editors and IDEs ---
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*~
+
+# --- Terminal & Environment ---
+.env
+.env.local
+.env.*.local
+*.log
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+.pytest_cache/
+
+# --- Node / JavaScript ---
+node_modules/
+dist/
+build/
+.npm
+
+# --- C / C++ / Java / Compilers ---
+*.o
+*.obj
+*.out
+*.exe
+*.class
+*.jar
+target/
+out/
